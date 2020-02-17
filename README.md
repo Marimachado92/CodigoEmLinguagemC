@@ -1,5 +1,6 @@
-# CodigoEmLinguagemC
-Códigos desenvolvidos no curso de Jogos Digitais em C /
-TRABALHO_STRUCT_FINALIZADO: Código elaborado para realizar cadastramentos de emporegados de uma empresa. /
-FRUTAS Código para escolha de menu. /
-Cadastro de produtos e Pedidos / 
+# CodeInCLanguage
+
+Codes developed in the Digital Games course in C /
+TRABALHO_STRUCT_FINALIZADO: Code developed to register employees of a company. /
+FRUITS Code for choosing a menu. /
+Product Registration and Orders /
